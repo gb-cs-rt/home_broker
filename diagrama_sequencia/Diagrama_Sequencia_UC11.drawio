@@ -1,0 +1,124 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="LUhKTUrMw7wmdxUSNtai">
+    <mxGraphModel dx="989" dy="577" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LeFruTOL68ddHuIKSZCm-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="440" as="sourcePoint" />
+            <mxPoint x="334.72" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-6" value=":Usuario" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="590" y="99" width="140" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="LeFruTOL68ddHuIKSZCm-6" vertex="1">
+          <mxGeometry x="65" y="219" width="10" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-8" value=":APIB3" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="738" y="100" width="130" height="339" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="LeFruTOL68ddHuIKSZCm-8" vertex="1">
+          <mxGeometry x="60" y="119" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-16" value="ordem:Ordem" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="414" y="100" width="130" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LeFruTOL68ddHuIKSZCm-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="LeFruTOL68ddHuIKSZCm-16" vertex="1">
+          <mxGeometry x="60" y="99" width="10" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="cZG0biF8OXEsiVtM545H-1" value="API B3" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="918" y="79" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cZG0biF8OXEsiVtM545H-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="cZG0biF8OXEsiVtM545H-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="932.99" y="449" as="sourcePoint" />
+            <mxPoint x="932.71" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZG0biF8OXEsiVtM545H-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="cZG0biF8OXEsiVtM545H-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="932.99" y="449" as="sourcePoint" />
+            <mxPoint x="932.71" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZG0biF8OXEsiVtM545H-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="928" y="241" width="10" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="199" as="sourcePoint" />
+            <mxPoint x="476.5" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-3" value="getStatus()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-2">
+          <mxGeometry x="0.1526" relative="1" as="geometry">
+            <mxPoint x="-16" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="LeFruTOL68ddHuIKSZCm-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="220" as="sourcePoint" />
+            <mxPoint x="763.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-5" value="consultarStatusOrdem(ordem)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-4">
+          <mxGeometry x="-0.5083" y="1" relative="1" as="geometry">
+            <mxPoint x="46" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="807.9999999999998" y="241.4999999999999" as="sourcePoint" />
+            <mxPoint x="927.9999999999998" y="241.4999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-7" value="consulta status&lt;div&gt;da ordem de&lt;/div&gt;&lt;div&gt;compra&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-6">
+          <mxGeometry x="0.1201" relative="1" as="geometry">
+            <mxPoint x="-9" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-8" value="" style="endArrow=none;html=1;rounded=0;startArrow=open;startFill=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808.9999999999998" y="316.9999999999999" as="sourcePoint" />
+            <mxPoint x="928.9999999999998" y="316.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-9" value="status atual da&amp;nbsp;&lt;div&gt;ordem de compra&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-8">
+          <mxGeometry x="0.1201" relative="1" as="geometry">
+            <mxPoint x="-4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-10" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="661" y="318" as="sourcePoint" />
+            <mxPoint x="798.5" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-11" value="adicionaNotificacao()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-10">
+          <mxGeometry x="-0.1293" y="-2" relative="1" as="geometry">
+            <mxPoint x="11" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-12" value="" style="endArrow=none;html=1;rounded=0;startArrow=open;startFill=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="341" y="384" as="sourcePoint" />
+            <mxPoint x="652.5" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ljz74V_naiSOcVQNEq21-13" value="exibe status da&lt;div&gt;ordem de compra&amp;nbsp;&lt;/div&gt;&lt;div&gt;(executada, cancelada, pendente)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ljz74V_naiSOcVQNEq21-12">
+          <mxGeometry x="-0.3562" y="2" relative="1" as="geometry">
+            <mxPoint x="-6" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
