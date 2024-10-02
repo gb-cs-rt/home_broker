@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="923" dy="591" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="629" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="368ryIqdzKqAlcXKy1S3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332" y="200" as="sourcePoint" />
-            <mxPoint x="475" y="200" as="targetPoint" />
+            <mxPoint x="332" y="201" as="sourcePoint" />
+            <mxPoint x="475" y="201" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -35,10 +35,10 @@
           <mxGeometry x="61" y="149" width="9" height="118" as="geometry" />
         </mxCell>
         <mxCell id="0rn-FYZJgUnYV7M9HU_Y-24" value=":OrdemCompra" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="414" y="125" width="130" height="372" as="geometry" />
+          <mxGeometry x="413" y="95" width="130" height="372" as="geometry" />
         </mxCell>
         <mxCell id="0rn-FYZJgUnYV7M9HU_Y-25" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="0rn-FYZJgUnYV7M9HU_Y-24" vertex="1">
-          <mxGeometry x="60" y="99" width="10" height="228" as="geometry" />
+          <mxGeometry x="60" y="105" width="10" height="222" as="geometry" />
         </mxCell>
         <mxCell id="Dpbqh7HLzEygRbn_yJDt-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -95,8 +95,8 @@
         </mxCell>
         <mxCell id="6YJHS1YPlDP4CpiEFU3A-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=open;startFill=0;endArrow=none;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="484" y="356" as="sourcePoint" />
-            <mxPoint x="696" y="356" as="targetPoint" />
+            <mxPoint x="484" y="362" as="sourcePoint" />
+            <mxPoint x="696" y="362" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -123,8 +123,8 @@
         </mxCell>
         <mxCell id="6YJHS1YPlDP4CpiEFU3A-13" value="" style="endArrow=none;html=1;rounded=0;startArrow=open;startFill=0;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="329" y="426" as="sourcePoint" />
-            <mxPoint x="472" y="426" as="targetPoint" />
+            <mxPoint x="329" y="422" as="sourcePoint" />
+            <mxPoint x="472" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6YJHS1YPlDP4CpiEFU3A-14" value="Detalhes da&amp;nbsp;&lt;div&gt;simulação de&amp;nbsp;&lt;/div&gt;&lt;div&gt;Ordem de compra&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="6YJHS1YPlDP4CpiEFU3A-13" vertex="1" connectable="0">
@@ -191,6 +191,9 @@
           <mxGeometry x="-0.1625" relative="1" as="geometry">
             <mxPoint x="12" y="-8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8qsYikxYjyh9_-L8PXw8-1" value="[se logado e na tela de&amp;nbsp;&lt;div&gt;compra ou carteira]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="149" width="143" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
