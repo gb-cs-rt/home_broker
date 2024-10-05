@@ -15,8 +15,8 @@ public class Main {
         sistemaDeAutenticacao.registrarUsuario(usuario);
 
         // Iniciar tutorial para novos usuários
-        Tutorial tutorial = new Tutorial();
-        tutorial.iniciarTutorial(usuario);
+        Tour tour = new Tour();
+        tour.iniciarTutorial(usuario);
 
         // Simular login com biometria
         boolean loginSucesso = sistemaDeAutenticacao.loginComBiometria(usuario.getEmail());

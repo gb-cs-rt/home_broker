@@ -1,15 +1,15 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tutorial {
+public class Tour {
 
     private List<String> passos;     // Lista de passos do tutorial
-    private boolean tutorialConcluido;  // Indica se o tutorial foi concluído
+    private boolean tourConcluido;  // Indica se o tutorial foi concluído
 
     // Construtor
-    public Tutorial() {
+    public Tour() {
         this.passos = new ArrayList<>();
-        this.tutorialConcluido = false;
+        this.tourConcluido = false;
         carregarPassos();  // Carregar os passos do tutorial
     }
 
@@ -26,37 +26,37 @@ public class Tutorial {
     }
 
     // Método para iniciar o tutorial
-    public void iniciarTutorial(Usuario usuario) {
-        if (tutorialConcluido) {
+    public void iniciarTour(Usuario usuario) {
+        if (tourConcluido) {
             System.out.println("O tutorial já foi concluído.");
         } else {
             System.out.println("Iniciando tutorial para o usuário: " + usuario.getNome());
             for (String passo : passos) {
-                System.out.println(passo);
+                exibeProximoPasso();
             }
-            concluirTutorial();
+            concluirTour();
         }
     }
 
     // Método para concluir o tutorial
-    private void concluirTutorial() {
-        this.tutorialConcluido = true;
+    private void concluirTour() {
+        this.tourConcluido = true;
         System.out.println("Tutorial concluído com sucesso!");
     }
 
     // Método para verificar se o tutorial foi concluído
-    public boolean isTutorialConcluido() {
-        return tutorialConcluido;
+    public boolean isTourConcluido() {
+        return tourConcluido;
     }
 
     // Método para reiniciar o tutorial
-    public void reiniciarTutorial() {
-        this.tutorialConcluido = false;
+    public void reiniciarTour() {
+        this.tourConcluido = false;
         System.out.println("Tutorial reiniciado.");
     }
 
     // Método para exibir os passos disponíveis no tutorial
-    public void exibirPassos() {
+    public void exibeProximoPasso() {
         System.out.println("Passos do Tutorial:");
         for (String passo : passos) {
             System.out.println(passo);

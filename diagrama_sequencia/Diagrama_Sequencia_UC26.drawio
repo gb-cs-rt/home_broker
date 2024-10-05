@@ -1,0 +1,178 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="dNnN6mv_j6JxDsNxnSgW">
+    <mxGraphModel dx="1834" dy="1241" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VeDO_Jp7mYXro175RJRG-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="462" width="523" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="253" width="523" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="3bs9gXROCjIQecpAhkJo-8" value=":Tour" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="395" y="49" width="130" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3bs9gXROCjIQecpAhkJo-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="3bs9gXROCjIQecpAhkJo-8" vertex="1">
+          <mxGeometry x="60" y="99" width="10" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3bs9gXROCjIQecpAhkJo-8">
+          <mxGeometry x="60" y="427" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="3bs9gXROCjIQecpAhkJo-8">
+          <mxGeometry x="60" y="488" width="10" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3bs9gXROCjIQecpAhkJo-1" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3bs9gXROCjIQecpAhkJo-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55" y="609" as="sourcePoint" />
+            <mxPoint x="54.72000000000003" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3bs9gXROCjIQecpAhkJo-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="50" y="150" width="10" height="438" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-1" value="&lt;b&gt;:Interface&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="198" y="49" width="104" height="557" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VeDO_Jp7mYXro175RJRG-1">
+          <mxGeometry x="47" y="99" width="10" height="441" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="VeDO_Jp7mYXro175RJRG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="169" as="sourcePoint" />
+            <mxPoint x="110" y="119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-4" value="inicia tour pela aplicação" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-3">
+          <mxGeometry x="-0.0625" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-5" value="&lt;span style=&quot;font-size: 9px; text-wrap: nowrap;&quot;&gt;[se sessão iniciada&lt;/span&gt;&lt;div style=&quot;font-size: 9px; text-wrap: nowrap;&quot;&gt;e primeira sessão no&lt;/div&gt;&lt;div style=&quot;font-size: 9px; text-wrap: nowrap;&quot;&gt;dispositivo]&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="120" y="128" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="3bs9gXROCjIQecpAhkJo-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="189" as="sourcePoint" />
+            <mxPoint x="305" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-7" value="iniciaTour()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-6">
+          <mxGeometry x="-0.1229" y="2" relative="1" as="geometry">
+            <mxPoint x="12" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="204" as="sourcePoint" />
+            <mxPoint x="465" y="241" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-9" value="carregaPassos()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-8">
+          <mxGeometry x="0.3253" y="-6" relative="1" as="geometry">
+            <mxPoint x="47" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-11" value="loop" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=5;arcSize=12;labelPosition=center;align=center;flipH=1;flipV=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="253" width="36" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="VeDO_Jp7mYXro175RJRG-10" target="VeDO_Jp7mYXro175RJRG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-13" value="[enquanto ainda houver passos do tour]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="280" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="454" y="277" as="sourcePoint" />
+            <mxPoint x="254" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-16" value="exibirProximoPasso()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-15">
+          <mxGeometry x="0.0957" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="244" y="293" as="sourcePoint" />
+            <mxPoint x="61" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-18" value="exibe próxima tela e explicação&lt;div style=&quot;font-size: 10px;&quot;&gt;ao usuário&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-17">
+          <mxGeometry x="0.0957" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="546" as="sourcePoint" />
+            <mxPoint x="454" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-20" value="concluirTour()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-19">
+          <mxGeometry x="-0.0768" y="-2" relative="1" as="geometry">
+            <mxPoint x="4" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1" target="3bs9gXROCjIQecpAhkJo-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="381" as="sourcePoint" />
+            <mxPoint x="295" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-22" value="pergunta ao usuário&lt;div&gt;se deseja ver o tour&lt;/div&gt;&lt;div&gt;novamente&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-21">
+          <mxGeometry x="0.2139" relative="1" as="geometry">
+            <mxPoint x="17" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-23" value="" style="endArrow=open;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endFill=0;dashed=1;" edge="1" parent="1" target="VeDO_Jp7mYXro175RJRG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="440" as="sourcePoint" />
+            <mxPoint x="110" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-24" value="sim / não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-23">
+          <mxGeometry x="-0.0903" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-26" value="verifica resposta" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=5;arcSize=12;labelPosition=center;align=center;flipH=1;flipV=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="462" width="64" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-27" value="[se sim]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="478" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255" y="486" as="sourcePoint" />
+            <mxPoint x="454" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-30" value="reiniciarTour()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="VeDO_Jp7mYXro175RJRG-29">
+          <mxGeometry x="-0.0768" y="-2" relative="1" as="geometry">
+            <mxPoint x="4" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VeDO_Jp7mYXro175RJRG-25" target="VeDO_Jp7mYXro175RJRG-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="566" as="sourcePoint" />
+            <mxPoint x="251" y="516" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-32" value="[se não&lt;span style=&quot;background-color: initial;&quot;&gt;]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="-38" y="516" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VeDO_Jp7mYXro175RJRG-34" value="UC-26&lt;div&gt;Tour para iniciantes&lt;/div&gt;&lt;div&gt;(novos usuarios)&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="203" y="-86" width="134" height="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
