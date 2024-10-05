@@ -49,5 +49,8 @@ public class SistemaDeNotificacao {
         enviarSMS(usuario, notificacao);
     }
 
+    public void atualizaAlertasDeCotacao() {
+        ;
+    }
     // Outros métodos podem ser adicionados conforme necessário
 }

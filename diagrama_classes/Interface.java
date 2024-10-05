@@ -111,4 +111,8 @@ public class Interface {
     public void emiteNotificacao() {
         ;
     }
+
+    public void gerarGraficoIntraday() {
+        ;
+    }
 }
