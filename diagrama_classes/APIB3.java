@@ -136,4 +136,12 @@ public class APIB3 {
     }
 
     // Outros métodos podem ser adicionados conforme necessário
+
+    public void obterDadosAcao() {
+        ;
+    }
+
+    public void obterCotacaoAcao() {
+        ;
+    }
 }

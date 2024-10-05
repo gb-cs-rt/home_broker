@@ -189,9 +189,29 @@ public class Usuario {
         }
     }
 
+    public void creditarSaldo() {
+        ;
+    }
+
     // Método para adicionar saldo (caso necessário)
     public void adicionarSaldo(double valor) {
         this.saldoDisponivel += valor;
+    }
+
+    public void getDadosPessoais() {
+        ;
+    }
+
+    public void verificarSaldoDisponivel() {
+        ;
+    }
+
+    public void atualizarSaldoUsuario() {
+        ;
+    }
+
+    public void atualizarCarteiraUsuario() {
+        ;
     }
 
     @Override

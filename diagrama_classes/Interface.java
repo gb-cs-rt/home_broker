@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.util.List;
 
-public class Main {
+public class Interface {
     public static void main(String[] args) {
         // Inicializar componentes do sistema
         APIBiometria apiBiometria = new APIBiometria();
@@ -16,7 +16,7 @@ public class Main {
 
         // Iniciar tutorial para novos usuários
         Tour tour = new Tour();
-        tour.iniciarTutorial(usuario);
+        tour.iniciarTour(usuario);
 
         // Simular login com biometria
         boolean loginSucesso = sistemaDeAutenticacao.loginComBiometria(usuario.getEmail());
@@ -69,5 +69,46 @@ public class Main {
 
         // Realizar logout do usuário
         sistemaDeAutenticacao.logout(usuario.getEmail());
+    }
+
+    // Métodos adicionais
+    public void adicionarNotificacao(Notificacao notificacao) {
+        ;
+    }
+
+    public void coletaBiometria() {
+        ;
+    }
+
+    public void iniciaSessao() {
+        ;
+    }
+
+    public void msgErro() {
+        ;
+    }
+
+    public void msgConfirmacao() {
+        ;
+    }
+
+    public void solicitaNovaSenha() {
+        ;
+    }
+
+    public void solicitaSenhaAtual() {
+        ;
+    }
+
+    public void solicitaNovosDados() {
+        ;
+    }
+
+    public void simulaOrdem() {
+        ;
+    }
+
+    public void emiteNotificacao() {
+        ;
     }
 }

@@ -138,6 +138,14 @@ public abstract class Ordem {
         }
     }
 
+    public void calculaValorEstimado() {
+        ;
+    }
+
+    public void simulaOrdem() {
+        ;
+    }
+
     // Método toString
     @Override
     public String toString() {

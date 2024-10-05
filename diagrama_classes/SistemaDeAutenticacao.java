@@ -157,4 +157,28 @@ public class SistemaDeAutenticacao {
             usuarios.values().forEach(usuario -> System.out.println("Usuário: " + usuario.getNome() + " - E-mail: " + usuario.getEmail()));
         }
     }
+
+    public void validaLogin() {
+        ;
+    }
+
+    public void validaEmail() {
+        ;
+    }
+
+    public void validaSenha() {
+        ;
+    }
+
+    public void validaDados() {
+        ;
+    }
+
+    public void alterarSenha() {
+        ;
+    }
+
+    public void recuperarSenha() {
+        ;
+    }
 }
